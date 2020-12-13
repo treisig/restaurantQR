@@ -7,6 +7,9 @@ Our final project will be a web application (hosted on Firebase) that supports l
 Each restaurant will sign up through our website, then be able to modify the landing page. We will use Firebase’s Firestore NoSQL database to store individual restaurant info, such as employees and menu items. On the restaurant’s home page, the manager will be able to edit the menu, waiters/waitresses (add/remove), and what customers can request like food, drinks, napkins, refills, check, etc. Each employee will also sign up and they will be able to choose which tables to manage for that shift. When customers request a service, the correlated employee will be notified with the table number.
 The Customers’ view of the website will have buttons to request drinks/napkins/refills, order food, and request for the check as well as their assigned waiter/waitress name. The customers can also navigate to see the restaurant’s menu with pictures and the price. They will have the option to translate the menu in different languages via Google translate API. Customers will be able to search the menu using the input box (with autocomplete).
 
+Try out our website here: https://restaurantqr-73126.web.app/
+
+
 ## Customer API
 
 ### Ordering
